@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+    "*.sh": "shellscript"
+    },
+    "editor.defaultFormatter": "foxundermoon.shell-format",
+    "editor.formatOnSave": true,
+    "[shellscript]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+    },
+    "code-runner.executorMap": {
+    "shellscript": "bash"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true
+}  
